@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta charset="UTF-8">
-	<title>PHP Test</title>
+	<title>PHP</title>
 </head>
 <body>
 		<?php 
